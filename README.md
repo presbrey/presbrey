@@ -1,5 +1,7 @@
 # Hi there 👋
 
+These are FOSS projects I've created or contributed to, primarily currently focusing on Go-based AI, networking, proxies, and system utilities, while also contributing to open source projects spanning API documentation, language models, web servers, with particular emphasis on linked data and performance tools.
+
 ## Projects I Created
 
 | Project | Language | License | Status |
@@ -24,13 +26,10 @@
 | Project | Language | Description |
 |---------|----------|-------------|
 | [HackerNews/API](https://github.com/HackerNews/API) | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | Official Hacker News API Documentation |
+| [jquery/jquery](https://github.com/jquery/jquery) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | jQuery JavaScript Library |
+| [lighttpd/lighttpd2](https://github.com/lighttpd/lighttpd2) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | Fast and lightweight webserver |
+| [linkeddata/gold](https://github.com/linkeddata/gold) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Linked Data server for Go |
 | [linkeddata/rdflib.js](https://github.com/linkeddata/rdflib.js) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | The RDF library for JavaScript | 
+| [linkeddata/tabulator](https://github.com/linkeddata/tabulator) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | A data browser/editor for the Semantic Web |
 | [ollama/ollama](https://github.com/ollama/ollama) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Get up and running with large language models locally |
 | [rakyll/hey](https://github.com/rakyll/hey) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | HTTP load generator, ApacheBench (ab) replacement |
-| [linkeddata/gold](https://github.com/linkeddata/gold) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Linked Data server for Go |
-| [linkeddata/tabulator](https://github.com/linkeddata/tabulator) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | A data browser/editor for the Semantic Web |
-| [lighttpd/lighttpd2](https://github.com/lighttpd/lighttpd2) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | Fast and lightweight webserver |
-
-## Stats
-
-Most of my projects are written in Go, with a focus on AI, networking, proxies, and system utilities. I contribute to various open source projects ranging from API documentation to language models and web servers, with a particular interest in linked data and performance tools.
